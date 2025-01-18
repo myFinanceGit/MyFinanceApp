@@ -1,5 +1,13 @@
 # vite-template-redux
 
+### Getting Started
+
+1. Clone this repository
+2. cd into directory 
+3. run `npm install`
+4. run `npm start` to start server locally
+
+
 Uses [Vite](https://vitejs.dev/), [Vitest](https://vitest.dev/), and [React Testing Library](https://github.com/testing-library/react-testing-library) to create a modern [React](https://react.dev/) app compatible with [Create React App](https://create-react-app.dev/)
 
 ```sh
