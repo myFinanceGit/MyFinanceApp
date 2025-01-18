@@ -1,5 +1,3 @@
-# vite-template-redux
-
 ### Getting Started
 
 1. Clone this repository
